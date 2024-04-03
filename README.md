@@ -2,8 +2,6 @@
 dipankarpaul2k/dipankarpaul2k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Dipankar Paul
-
 ## 👋 Hi there, I’m Dipankar Paul!
 
 👨‍💻 I'm a professional self-taught Full Stack developer from India, currently diving into the world of React and Rust. I also have plans to explore DSA concepts in the near future.
