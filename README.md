@@ -38,7 +38,7 @@ You can click the Preview link to take a look at your changes.
 ![Node Js](https://img.shields.io/badge/Node_Js-417E38?style=for-the-badge&logo=Node.Js&logoColor=white),
 ![Express](https://img.shields.io/badge/express-242526?style=for-the-badge&logo=express&logoColor=white),
 ![Fastify](https://img.shields.io/badge/Fastify-242526?style=for-the-badge&logo=Fastify&logoColor=white),
-![MongoDB](https://img.shields.io/badge/MongoDB-00ED64?style=for-the-badge&logo=MongoDB&logoColor=white),
+![MongoDB](https://img.shields.io/badge/MongoDB-417E38?style=for-the-badge&logo=MongoDB&logoColor=white),
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=Mongoose&logoColor=white)
 
 #### Backend as a Service (BaaS)
