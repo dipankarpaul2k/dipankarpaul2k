@@ -25,14 +25,14 @@ You can click the Preview link to take a look at your changes.
 ![Rust](https://img.shields.io/badge/Rust-F3633D?style=for-the-badge&logo=Rust&logoColor=white)
 
 #### Front-End Development
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white), 
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white), 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=Bootstrap&logoColor=white),
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=React&logoColor=white), 
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=Redux&logoColor=white), 
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=React-Router&logoColor=white), 
 ![Material-UI](https://img.shields.io/badge/Material_UI-007ACC?style=for-the-badge&logo=Mui&logoColor=white), 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-007ACC?style=for-the-badge&logo=Tailwind-Css&logoColor=white), 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white), 
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white), 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=Bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-007ACC?style=for-the-badge&logo=Tailwind-Css&logoColor=white),
 
 #### Backend-End Development
 ![Node Js](https://img.shields.io/badge/Node_Js-417E38?style=for-the-badge&logo=Node.Js&logoColor=white),
