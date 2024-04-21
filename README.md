@@ -33,6 +33,7 @@ You can click the Preview link to take a look at your changes.
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=React-Router&logoColor=white), 
 ![Material-UI](https://img.shields.io/badge/Material_UI-007ACC?style=for-the-badge&logo=Mui&logoColor=white), 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-007ACC?style=for-the-badge&logo=Tailwind-Css&logoColor=white),
+![Mantine](https://img.shields.io/badge/Mantine-339AF0.svg?style=for-the-badge&logo=Mantine&logoColor=white),
 
 #### Backend-End Development
 ![Node Js](https://img.shields.io/badge/Node_Js-417E38?style=for-the-badge&logo=Node.Js&logoColor=white),
