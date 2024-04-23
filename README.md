@@ -6,9 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 👨‍💻 I'm a professional self-taught Full Stack developer from India, currently diving into the world of React and Rust. I also have plans to explore DSA concepts in the near future.
 
-📚 Outside the world of tech, I also love reading books on personal development & Indian mythology. I am currently reading **Rich Dad Poor Dad** by _Robert Kiyosaki_ and **Ramayana** by _C.Rajagopalachari_.
-
-✈️ I love traveling too.
+📚 Outside the world of tech, I also love reading books on personal development & Indian mythology. I love traveling too.
 
 ### 🌱 What I'm Currently Up To
 - Working on a task management website with React and Appwrite
