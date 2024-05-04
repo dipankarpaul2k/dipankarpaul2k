@@ -3,14 +3,7 @@ dipankarpaul2k/dipankarpaul2k is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 <div align='center'>
-<!--   <h1>👋 Hi there, I’m Dipankar Paul</h1> -->
-  <h1>
-        <picture>
-            <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
-            <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="26" height="26">
-        </picture>
-        <span>Hi there, I’m Dipankar Paul</span>
-    </h1>
+  <h1>👋 Hi there, I’m Dipankar Paul</h1>
   <h3>A Frontend Developer and Blog Writer</h3>
 </div>
 
