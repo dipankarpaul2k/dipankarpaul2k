@@ -3,13 +3,11 @@ dipankarpaul2k/dipankarpaul2k is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 <div align='center'>
-  <h1>👋 Hi there, I’m Dipankar Paul.</h2>
-  <p>I'm a Frontend Developer and Blog Writer, passionate about creating engaging web experiences and sharing knowledge through my writing.</p>
+  <h1>👋 Hi there, I’m Dipankar Paul</h1>
+  <h3>A Frontend Developer and Blog Writer</h3>
 </div>
 
-👨‍💻 My journey began with HTML, CSS, and JavaScript, and has since expanded to include expertise in Material-UI, Mantine UI, Tailwind CSS, Zustand, and more. I'm also diving into the world of Rust, exploring its unique features and capabilities.
-
-Outside the world of tech, I also love reading books on personal development & Indian mythology. I love traveling too.
+Welcome to my github profile! I'm a frontend developer with a passion for crafting engaging web experiences. My journey began with HTML, CSS, and JavaScript, and has since expanded to include expertise in Material-UI, Mantine UI, Tailwind CSS, Zustand, and more. I'm also diving into the world of Rust🦀, exploring its unique features and capabilities.
 
 ## 💻 What I Do
 
