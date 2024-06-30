@@ -51,14 +51,9 @@ I’m interested in
 ### BaaS (Backend as a Service)
 ![Appwrite](https://img.shields.io/badge/Appwrite-FD366E.svg?style=for-the-badge&logo=Appwrite&logoColor=white)
 
-### Design Tools
-![Canva](https://img.shields.io/badge/Canva-007ACC?style=for-the-badge&logo=Canva&logoColor=white)
-
 ### Workspace Setup
 ![Windows 11](https://img.shields.io/badge/Windows-007ACC?style=for-the-badge&logo=Windows&logoColor=white), 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-![Dipankar's GitHub stats](https://github-readme-stats.vercel.app/api?username=dipankarpaul2k&show_icons=true&bg_color=00000000)
 
 ## 📝 Top Blog Posts
 - [Memory Management in Rust: Stack vs. Heap](https://dev.to/dipankarpaul/memory-management-in-rust-stack-vs-heap-3m45)
@@ -71,7 +66,9 @@ Want to read more? [Check out all the blogs](https://dev.to/dipankarpaul).
 
 <div align='center'>
   <p>
-    <a href='https://www.linkedin.com/in/iamdipankarpaul/'>LinkedIn</a>
+    <a href='https://www.linkedin.com/in/iamdipankarpaul/'>
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn image"/>
+    </a>
     <span> | </span>
     <a href='https://github.com/dipankarpaul2k'>GitHub</a>
     <span> | </span>
