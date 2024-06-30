@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Dipankar Paul
 
-![Profile Views](https://komarev.com/ghpvc/?username=dipankarpaul2k)
+![Profile Views](https://komarev.com/ghpvc/?username=dipankarpaul2k&style=for-the-badge&base=100)
 
 ### A Frontend Developer and Blog Writer
 
