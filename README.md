@@ -20,13 +20,17 @@ I’m interested in
 - traveling
 - cricket
 
+## 📝 Resume
+
+You can view my resume through this [link](https://dipankarpaul2k.github.io/resume/).
+
 ## Languages & Technologies I Love
 
 ### Languages
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white),
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white),
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=JavaScript&logoColor=white),
-![Rust(learning)](https://img.shields.io/badge/Rust-F3633D?style=for-the-badge&logo=Rust&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-F3633D?style=for-the-badge&logo=Rust&logoColor=white)
 
 ### Front-End Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=React&logoColor=white),
@@ -69,7 +73,6 @@ Want to read more? [Check out all the blogs](https://dev.to/dipankarpaul).
     <a href='https://github.com/dipankarpaul2k'>
       <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub image"/>
     </a>
-    <span> </span>
     <a href='https://www.linkedin.com/in/iamdipankarpaul/'>
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn image"/>
     </a>
