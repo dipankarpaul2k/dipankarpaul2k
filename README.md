@@ -10,9 +10,6 @@ Welcome to my github profile! I'm a frontend developer with a passion for crafti
 
 I design and develop user interfaces that are not only visually appealing but also functional and user-friendly. My skills in frontend technologies allow me to create responsive websites and web applications that work seamlessly across devices. I also enjoy sharing my knowledge and insights through my blogs on [dev.to](https://dev.to/dipankarpaul), where I write about Rust tutorials.
 
-### 🌱 What I'm Currently Up To
-- Working on my own portfolio.
-
 ## 🚀 My Approach
 
 I'm passionate about continuous learning and staying updated with the latest trends and technologies in the frontend development space. I approach each project with enthusiasm and a commitment to delivering high-quality results. Additionally, I'm currently expanding my skills into backend development, broadening my expertise in creating full-stack applications.
@@ -21,6 +18,7 @@ I'm passionate about continuous learning and staying updated with the latest tre
 I’m interested in
 - reading books on personal development & Indian mythology
 - traveling
+- cricket
 
 ## Languages & Technologies I Love
 
@@ -59,6 +57,8 @@ I’m interested in
 ### Workspace Setup
 ![Windows 11](https://img.shields.io/badge/Windows-007ACC?style=for-the-badge&logo=Windows&logoColor=white), 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+![Dipankar's GitHub stats](https://github-readme-stats.vercel.app/api?username=dipankarpaul2k&show_icons=true&bg_color=00000000)
 
 ## 📝 Top Blog Posts
 - [Memory Management in Rust: Stack vs. Heap](https://dev.to/dipankarpaul/memory-management-in-rust-stack-vs-heap-3m45)
