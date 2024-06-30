@@ -66,25 +66,25 @@ Want to read more? [Check out all the blogs](https://dev.to/dipankarpaul).
 
 <div align='center'>
   <p>
-    <a href='https://www.linkedin.com/in/iamdipankarpaul/'>
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn image"/>
-    </a>
     <a href='https://github.com/dipankarpaul2k'>
       <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub image"/>
+    </a>
+    <span> </span>
+    <a href='https://www.linkedin.com/in/iamdipankarpaul/'>
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn image"/>
     </a>
     <a href='https://codepen.io/dipankarpaul2k'>
       <img src="https://img.shields.io/badge/CodePen-000000.svg?style=for-the-badge&logo=CodePen&logoColor=white" alt="CodePen image"/>
     </a>
-    <a href='https://dev.to/dipankarpaul'>
-      <img src="https://img.shields.io/badge/dev.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to image"/>
-    </a>
     <a href='https://iamdipankarpaul.hashnode.dev/'>
       <img src="https://img.shields.io/badge/Hashnode-2962FF.svg?style=for-the-badge&logo=Hashnode&logoColor=white" alt="Hashnode image"/>
     </a>
-    <span>
+    <a href='https://dev.to/dipankarpaul'>
+      <img src="https://img.shields.io/badge/dev.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to image"/>
+    </a>
     <a href='mailto:dipankarpaul.dev@gmail.com'>
       <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail image"/>
-    </a></span>
+    </a>
   </p>
   <p>Let's connect and build amazing things together😊.</p>
 </div>
