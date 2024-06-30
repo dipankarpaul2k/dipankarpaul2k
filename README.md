@@ -81,9 +81,10 @@ Want to read more? [Check out all the blogs](https://dev.to/dipankarpaul).
     <a href='https://iamdipankarpaul.hashnode.dev/'>
       <img src="https://img.shields.io/badge/Hashnode-2962FF.svg?style=for-the-badge&logo=Hashnode&logoColor=white" alt="Hashnode image"/>
     </a>
+    <span>
     <a href='mailto:dipankarpaul.dev@gmail.com'>
       <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail image"/>
-    </a>
+    </a></span>
   </p>
   <p>Let's connect and build amazing things together😊.</p>
 </div>
