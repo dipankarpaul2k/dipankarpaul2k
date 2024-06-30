@@ -23,7 +23,6 @@ I’m interested in
 ## 📝 Resume
 
 You can view my resume through this [link](https://dipankarpaul2k.github.io/resume/).
-You can view my resume through this <a href="https://dipankarpaul2k.github.io/resume/" target="_blank">link</a>.
 
 ## Languages & Technologies I Love
 
